@@ -1,1 +1,1 @@
-print('Noo!')
+print('Hey!')
